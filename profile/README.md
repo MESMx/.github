@@ -2,17 +2,14 @@
 
 **MESMx** is the official GitHub organization for all student-led tech clubs, projects, and programs at **MES College Marampally**.
 
-We’re building an open-source space where students can collaborate, learn, and continue the work of previous batches — from coding clubs to community websites.
+open-source space where students can collaborate, learn, and continue the work of previous batches — from coding clubs to community websites.
 
 ---
 
 ## What We Do
 
 - Host and manage code for clubs like:
-  - IEDC
-  - Hack Club
-  - TinkerHub
-  - MuLearn
+  - IEDC, Hack Club, TinkerHub, MuLearn & other Clubs
   - Design Club
   - Web Team
 - Run and maintain club activities
